@@ -1,5 +1,7 @@
 # PROJET_E4 - Neural Convolution Network pour analyse d'ECG_Audio.
 
+Ce modèle a pour but de donner un premier diagnostique d'ECG à partir de fichier audio. Il s'inscrit dans un projet de deuxième année d'école d'ingénieur à ESIEE Paris, le projet R25 - Suivi de grossesses en zone rurales au Burkina Faso, en Australie et au Timor oriental, année 2021 - 2022, dans le cadre duquel doit être réalisé un stéthoscope connecté afin de faciliter l'intervention des médecins dans des zones rurales. 
+
 ## Installation
 
 Installation des imports :
