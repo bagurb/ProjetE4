@@ -12,6 +12,12 @@ pip install -r requirements.txt
 Le script ce trouve dans le notebook spectrogram_Categorization.ipynb.
 Exécutez les cellules une par une.
 
+## Architecture
+
+* Data : contient les données format .wav (MLDataset) et leurs spectrogrames format .png (Spectrograms)
+* prediction_results.csv : les résultats de prédiction du modèle
+* requirements.txt : fichier d'installation des imports
+* spectrogram_Categorization.ipyng : notebook principal contenant le traitement des données et le modèle
 
 ### Tâches effectuées
 * Écriture du code pour le modèle avec la librairie Keras.
